@@ -1,0 +1,6 @@
+Aprender CSS foi uma experiência desafiadora, mas extremamente gratificante. No início, parecia complicado entender como as diversas propriedades, seletores e valores funcionavam juntos. Cada seletor tinha um propósito específico, como estilizar textos, ajustar layouts e definir cores e fontes. As propriedades adicionavam mais detalhes aos seletores, como margens, preenchimentos e bordas, enquanto os valores determinavam as características dessas propriedades.
+
+Apesar das dificuldades iniciais, comecei a perceber como o CSS é bem flexível. Confesso que no inicio do desafio de fronte me deu uma grande dor de cabeça com CSS. Mas a
+possibilidade de criar designs visualmente atraentes meio que me motivou a continuar aprendendo. Cada parte finalizada me deixava ainda mais satisfeito vendo tudo aquilo sendo colocado em pratica. Claro, voltei algumas aulas, pesquisei e vi alguns video quando estava preso em alguma parte, uma dos exemplos foi quando precisei alinhar a parte do menu do home, porém ele só ficava em coluna, acabei levando algumas horas nessa parte.
+
+Ainda há muito para aprender, e estou ansioso para aprofundar meus conhecimentos em CSS. Quero dominar técnicas avançadas e explorar todas as possibilidades que essa linguagem oferece para criar designs ainda mais sofisticados e funcionais.
