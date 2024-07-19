@@ -1,0 +1,7 @@
+O HTML foi o ponto de partida. No início, parecia simples com suas tags e atributos básicos. No entanto, entender a semântica e usar as tags corretamente para criar um código limpo e acessível exigiu foco e esforço contínuo. A organização que o HTML proporciona é fundamental para qualquer desenvolvedor.
+
+CSS adicionou uma camada extra de complexidade. Estilizar elementos, ajustar layouts e criar designs visuais requer entendimento razoável das propriedades e valores do CSS. A variedade de seletores e a necessidade de garantir compatibilidade entre diferentes navegadores tornaram o aprendizado um pouco mais difícil. Transformar uma estrutura simples em algo visualmente impressionante é uma das maiores recompensas ao trabalhar com CSS.
+
+Layouts flexíveis, especialmente com o Flexbox, mudaram a forma como os elementos são organizados na página. A flexibilidade e a eficiência do Flexbox permitiram e me ajudaram muito a criar layouts responsivos que se adaptam a diferentes tamanhos. Aprender a usar propriedades como flex-direction, justify-content e align-items foi um divisor de águas.
+
+Confesso que, quando vi o Figma do desafio, fiquei um tanto quanto boquiaberto. Cheguei até a me questionar se realmente conseguiria finalizar o desafio a tempo. Porém, depois de tanta dor de cabeça, consegui entregá-lo em sua devida estrutura, assim espero.
